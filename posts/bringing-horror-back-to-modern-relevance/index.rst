@@ -113,12 +113,12 @@ The story centers around a group of friends that accompany a foreign student bac
 The first sign that something was horribly wrong was when they witnessed two old community members perform a ritual suicide known as Ättestupa, jumping to their deaths from a cliff high above several large rocks that added to the lethality.
 Despite the visitors responding in shock, the villagers expressed little effect, dismissing it as customary.
 As if this wasn't concerning enough, the villagers proceeded to mimic cries of agony from one of the surviving elders that had jumped, only to finish him off with a final blow by mallet.
-The trauma of the scene, coupled with the bizarreness of the villager's responses, made for a deeply unsettling prelude, one that would eventally end in nearly all of their demise.
+The trauma of the scene, coupled with the bizarreness of the villager's responses, made for a deeply unsettling prelude, one that would eventally end in the demise of nearly all of the visitors.
 
 As the story progresses, we're left mostly in the dark about what this cult wants with them and even at this point, whether they're legitimately a cult or just villagers with a misunderstood culture.
-After two foreign witnesses to the Ättestupa attempt to leave, we learn of their mysterious disappearances and come to understand that the villagers won't allow them to do so, opting to murder them to preserve the community's secrets.
-We see them attempt to entrance one of the foreigners with a love rune, his disinhibition by way of a psychedelic tea, and deepening tensions between him and his girlfriend, eventually culminating in a mating ritual that she witnesses at its climax.
-Finally, the girlfriend is crowned as the May Queen and turns on her former partner, accepting the cult's mentality and sacrificing him to immolation as her expression twists from terror to satisfaction.
+After two foreign witnesses to the Ättestupa attempt to leave, we learn of their mysterious disappearances and come to understand that the villagers won't allow them to do so, instead choosing to murder them to preserve the community's secrets.
+We see them attempt to bewitch one of the foreigners using a love rune, his later disinhibition by way of a psychedelic tea, and deepening tensions between him and his girlfriend, eventually culminating in a mating ritual that she witnesses at its climax.
+Finally, the girlfriend is crowned as the May Queen and turns on her former partner, assimilating into the cult's mentality and sacrificing him to immolation as her expression twists from terror to satisfaction.
 
 The film is increasingly unsettling all the way through, dropping small clues about all not being right with the village they've found themselves stranded in.
 While not particularly scary in the normal sense, it does adhere to the principle of not explaining everything and maintains a healthy level of discomfort and unease in the audience as we learn of each successive bizarre event, speculating about its ultimate meaning in terms of the villagers' motives.
