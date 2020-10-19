@@ -8,9 +8,9 @@
 .. type: text
 
 .. figure:: /images/about-me.png
-    :width: 300px
+    :width: 275px
     :align: left
-    :height: 300px
+    :height: 275px
     :alt:
     :figclass: align-center
 
