@@ -90,7 +90,7 @@ Having some experience with the country, I immediately recalled the latter as on
 I found my inner skeptic taking hold as I wondered how such a benign and bubbly holiday could serve as the theme for a movie intended to scare the audience.
 Both it and Hereditary sounded like some kind of lame B-movie attempts at horror, but I remained open to giving them a try when the opportunity presented itself.
 Both films fell largely off of my radar until, lo' and behold, I found them prominently features on Amazon Prime.
-What's more, I had recently joined Facebook and was able to test drive them with VR hardware, amplifying what was sure to be an alaready anxious experience.
+What's more, I had recently joined Facebook and was able to test drive them with VR hardware, amplifying what was sure to already be an anxious experience.
 
 Midsommar
 ~~~~~~~~~
