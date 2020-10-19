@@ -161,7 +161,7 @@ Piecing together the backstory, it becomes apparent that they worship him so tha
 As for the grandmother, she was a cult member that was seeking a vessel for Paimon and was left with no choice but to use Charlie, despite his preference for a male host.
 Then, with Charlie gone and through the machinations of the cult, he was finally able to possess Peter and rule over humanity.
 
-Looking back, this is horror at its finest, mixing new techniques at scaring with sparing use of shock moments, striking a balance intended to leave you creeped over inducing a cheap and easy adrenaline response.
+Looking back, this is horror at its finest, mixing new techniques at scaring with sparing use of shock moments, striking a balance intended to leave you creeped out instead of inducing a cheap and easy adrenaline response.
 I'll be the first to admit that several scenes in this movie were some of the eeriest I've ever come across.
 There were moments where I would double- and triple-take because I weren't sure if I saw something in the darkness.
 Adding to that, the odd behaviors of Charlie, most notably her tongue clicking sound, were used repeatedly as an aural irritant to leave the viewer erratic and unhinged.
