@@ -6,119 +6,39 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://jmbattle.github.io/categories/blog.xml</loc>
-  <lastmod>2020-10-18T05:23:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://jmbattle.github.io/categories/cat_movies.xml</loc>
-  <lastmod>2020-10-19T06:26:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/categories/cat_nikola.xml</loc>
-  <lastmod>2020-10-18T05:23:00Z</lastmod>
+  <lastmod>2020-10-19T07:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jmbattle.github.io/categories/cinema.xml</loc>
-  <lastmod>2020-10-19T06:26:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/categories/demo.xml</loc>
-  <lastmod>2020-10-18T05:23:00Z</lastmod>
+  <lastmod>2020-10-19T07:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jmbattle.github.io/categories/hereditary.xml</loc>
-  <lastmod>2020-10-19T06:26:00Z</lastmod>
+  <lastmod>2020-10-19T07:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jmbattle.github.io/categories/horror.xml</loc>
-  <lastmod>2020-10-19T06:26:00Z</lastmod>
+  <lastmod>2020-10-19T07:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jmbattle.github.io/categories/midsommar.xml</loc>
-  <lastmod>2020-10-19T06:26:00Z</lastmod>
+  <lastmod>2020-10-19T07:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jmbattle.github.io/categories/movies.xml</loc>
-  <lastmod>2020-10-19T06:26:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/categories/nikola.xml</loc>
-  <lastmod>2020-10-18T05:23:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/categories/python.xml</loc>
-  <lastmod>2020-10-18T05:23:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/galleries/demo/rss.xml</loc>
-  <lastmod>2020-10-18T07:17:00Z</lastmod>
+  <lastmod>2020-10-19T07:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jmbattle.github.io/galleries/rss.xml</loc>
   <lastmod>2020-10-19T06:26:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://jmbattle.github.io/ko/categories/blog.xml</loc>
-  <lastmod>2020-10-18T05:23:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/ko/categories/cat_movies.xml</loc>
-  <lastmod>2020-10-18T08:25:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/ko/categories/cat_nikola.xml</loc>
-  <lastmod>2020-10-18T05:23:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/ko/categories/cinema.xml</loc>
-  <lastmod>2020-10-18T08:25:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/ko/categories/demo.xml</loc>
-  <lastmod>2020-10-18T05:23:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/ko/categories/hereditary.xml</loc>
-  <lastmod>2020-10-18T08:25:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/ko/categories/horror.xml</loc>
-  <lastmod>2020-10-18T08:25:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/ko/categories/midsommar.xml</loc>
-  <lastmod>2020-10-18T08:25:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/ko/categories/movies.xml</loc>
-  <lastmod>2020-10-18T08:25:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/ko/categories/nikola.xml</loc>
-  <lastmod>2020-10-18T05:23:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/ko/categories/python.xml</loc>
-  <lastmod>2020-10-18T05:23:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/ko/galleries/demo/rss.xml</loc>
-  <lastmod>2020-10-18T07:17:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/ko/galleries/rss.xml</loc>
-  <lastmod>2020-10-18T07:17:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://jmbattle.github.io/ko/rss.xml</loc>
-  <lastmod>2020-10-18T08:25:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://jmbattle.github.io/rss.xml</loc>
-  <lastmod>2020-10-19T06:26:00Z</lastmod>
+  <lastmod>2020-10-19T07:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://jmbattle.github.io/sitemap.xml</loc>
-  <lastmod>2020-10-19T06:26:00Z</lastmod>
+  <lastmod>2020-10-19T07:02:00Z</lastmod>
  </sitemap>
 </sitemapindex>
