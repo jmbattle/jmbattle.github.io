@@ -148,16 +148,17 @@ With Hereditary, we get one of the more inventive horror movies in the last coup
 The plot focuses on a family who suffers a tragic loss and gradually uncovers the secret behind their twisted lineage.
 
 At the film's opening, a grandmother has passed away and we learn of the dysfunctional relationship between her and matriarch, Annie.
-As the family struggles to move past the trauma of her death, they experience another sudden loss when an outing to attend a party leaves their 13-year-old daughter Charlie dead by decapitation after a swerve-and-miss, near wreck occurs at the hands of their son Peter.
+As the family struggles to move past the trauma of her death, they experience another sudden loss when an outing to attend a party leaves their 13-year-old daughter Charlie dead by decapitation after a swerve-and-miss, near wreck occurs at the hands of their son, Peter.
 With her gone, some supernatural force is catalyzed, and we witness the family being increasingly psychologically tortured by some unknown entity.
-Whether it's the Charlie's spirit seeking revenge or something else is left unclear and open to interpretation, adding to the viewers' confusion.
-Out of desperation, Annie seeks to commune with the Charlie in a bid to cope with and move past her death, but the remaining family members are concerned she is losing grip on her sanity.
-The situation quickly spirals out of control as they discover the grandmother's body has been placed in the attic along with occultist symbols scrawled in blood nearby.
-Shortly after, the father bursts into flames as they attempt to burn Charlie's sketchbook, which they thought was what drew her to the house and led to them being haunted by her.
-The madness only escalates further, with a possessed Annie trapping Peter in the attic only to behead herself while levitating.
+Whether it's Charlie's spirit seeking revenge or something else is left unclear and open to interpretation, adding to the viewers' confusion.
+Out of desperation, Annie seeks to commune with Charlie in a bid to cope with and move past her death, but the remaining family members are concerned she is losing grip on her sanity.
+The situation quickly spirals out of control as they discover the grandmother's body has been placed in the attic along with nearby occultist symbols scrawled in blood.
+Shortly after, the father bursts into flames when they attempt to burn Charlie's sketchbook, an object they believed was binding her to the home.
+The madness only escalates further from there, with a possessed Annie trapping Peter in the attic before beheading herself while simultaneously levitating.
 
-By the end, Peter becomes inhabited by a demon we come to learn is named Paimon, with a secret cult pulling the strings so that he can come to power and they can worship him and be the benefactors of his reign.
-Tracing back, it becomes apparent that the grandmother was a cult member that was seeking a vessel for Paimon and was left with no choice but to use Charlie, despite his preference for a male host.
+By the end, Peter becomes inhabited by a demon we come to learn is named Paimon, with a secret cult pulling the strings behind the scenes.
+Piecing together the backstory, it becomes apparent that they worship him so that they can be the benefactors of his reign and rewarded for facilitaing it.
+As for the grandmother, she was a cult member that was seeking a vessel for Paimon and was left with no choice but to use Charlie, despite his preference for a male host.
 Then, with Charlie gone and through the machinations of the cult, he was finally able to possess Peter and rule over humanity.
 
 Looking back, this is horror at its finest, mixing new techniques at scaring with sparing use of shock moments, striking a balance intended to leave you creeped over inducing a cheap and easy adrenaline response.
